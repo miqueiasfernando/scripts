@@ -3,3 +3,8 @@ function mudaTema() {
   const el = document.querySelector(".codepen");
   el.setAttribute("data-theme-id", "light");
 }
+
+window.onload = function () {
+  // const el = document.querySelector(".codepen");
+  // el.setAttribute("data-theme-id", "light");
+};
