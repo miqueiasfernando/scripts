@@ -5,6 +5,6 @@ function mudaTema() {
 }
 
 window.onload = function () {
-  // const el = document.querySelector(".codepen");
-  // el.setAttribute("data-theme-id", "light");
+   const el = document.querySelector(".codepen");
+   el.setAttribute("data-theme-id", "light");
 };
